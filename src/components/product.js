@@ -1,5 +1,5 @@
 import React from 'react';
-import './product.css';
+
 import {BrowserRouter,Route,Link,useParams,Outlet} from 'react-router-dom';
 
 
