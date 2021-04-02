@@ -1,0 +1,13 @@
+.nav{
+    background-color: rgb(204,200,200);
+    height: 40px;
+    padding-top: 1%;
+    padding-left: 5%;
+}
+.option{
+    border-left: 5px ridge gray;
+    color: darkgreen;
+}
+.mid{
+    text-align: center;
+}
